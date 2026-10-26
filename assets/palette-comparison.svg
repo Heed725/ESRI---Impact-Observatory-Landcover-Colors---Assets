@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="670" viewBox="0 0 900 670" role="img" aria-labelledby="title desc">
+<title id="title">ESRI / Impact Observatory landcover palettes</title>
+<desc id="desc">Common and Bright palettes with nine landcover classes and an optional zero background class. Exact hexadecimal colour codes are displayed alongside each swatch.</desc>
+<rect width="900" height="670" rx="20" fill="#F7F8F5"/>
+<g font-family="DejaVu Sans,Arial,sans-serif" fill="#243A2D">
+<text x="36" y="48" font-size="28" font-weight="bold">Two palettes. One classification.</text>
+<text x="36" y="77" font-size="15" fill="#5F6C61">ESRI / Impact Observatory landcover colours for QGIS</text>
+<text x="36" y="121" font-size="15" font-weight="bold">CLASS</text>
+<text x="340" y="121" font-size="15" font-weight="bold">COMMON</text>
+<text x="620" y="121" font-size="15" font-weight="bold">BRIGHT</text>
+<rect x="24" y="142" width="852" height="43" rx="6" fill="#FFFFFF"/>
+<text x="38" y="169" font-size="14" fill="#6B766C">01</text>
+<text x="74" y="169" font-size="16">Water</text>
+<rect x="340" y="149" width="76" height="29" rx="4" fill="#419BDF" stroke="#DDE1D9"/>
+<text x="431" y="169" font-family="DejaVu Sans Mono,monospace" font-size="15">#419BDF</text>
+<rect x="620" y="149" width="76" height="29" rx="4" fill="#1A5BAB" stroke="#DDE1D9"/>
+<text x="711" y="169" font-family="DejaVu Sans Mono,monospace" font-size="15">#1A5BAB</text>
+<rect x="24" y="189" width="852" height="43" rx="6" fill="#FFFFFF"/>
+<text x="38" y="216" font-size="14" fill="#6B766C">02</text>
+<text x="74" y="216" font-size="16">Trees</text>
+<rect x="340" y="196" width="76" height="29" rx="4" fill="#397D49" stroke="#DDE1D9"/>
+<text x="431" y="216" font-family="DejaVu Sans Mono,monospace" font-size="15">#397D49</text>
+<rect x="620" y="196" width="76" height="29" rx="4" fill="#358221" stroke="#DDE1D9"/>
+<text x="711" y="216" font-family="DejaVu Sans Mono,monospace" font-size="15">#358221</text>
+<rect x="24" y="236" width="852" height="43" rx="6" fill="#FFFFFF"/>
+<text x="38" y="263" font-size="14" fill="#6B766C">04</text>
+<text x="74" y="263" font-size="16">Flooded Vegetation</text>
+<rect x="340" y="243" width="76" height="29" rx="4" fill="#7A87C6" stroke="#DDE1D9"/>
+<text x="431" y="263" font-family="DejaVu Sans Mono,monospace" font-size="15">#7A87C6</text>
+<rect x="620" y="243" width="76" height="29" rx="4" fill="#87D19E" stroke="#DDE1D9"/>
+<text x="711" y="263" font-family="DejaVu Sans Mono,monospace" font-size="15">#87D19E</text>
+<rect x="24" y="283" width="852" height="43" rx="6" fill="#FFFFFF"/>
+<text x="38" y="310" font-size="14" fill="#6B766C">05</text>
+<text x="74" y="310" font-size="16">Crops</text>
+<rect x="340" y="290" width="76" height="29" rx="4" fill="#E49635" stroke="#DDE1D9"/>
+<text x="431" y="310" font-family="DejaVu Sans Mono,monospace" font-size="15">#E49635</text>
+<rect x="620" y="290" width="76" height="29" rx="4" fill="#FFDB5C" stroke="#DDE1D9"/>
+<text x="711" y="310" font-family="DejaVu Sans Mono,monospace" font-size="15">#FFDB5C</text>
+<rect x="24" y="330" width="852" height="43" rx="6" fill="#FFFFFF"/>
+<text x="38" y="357" font-size="14" fill="#6B766C">07</text>
+<text x="74" y="357" font-size="16">Built Area</text>
+<rect x="340" y="337" width="76" height="29" rx="4" fill="#C4281B" stroke="#DDE1D9"/>
+<text x="431" y="357" font-family="DejaVu Sans Mono,monospace" font-size="15">#C4281B</text>
+<rect x="620" y="337" width="76" height="29" rx="4" fill="#ED022A" stroke="#DDE1D9"/>
+<text x="711" y="357" font-family="DejaVu Sans Mono,monospace" font-size="15">#ED022A</text>
+<rect x="24" y="377" width="852" height="43" rx="6" fill="#FFFFFF"/>
+<text x="38" y="404" font-size="14" fill="#6B766C">08</text>
+<text x="74" y="404" font-size="16">Bare Ground</text>
+<rect x="340" y="384" width="76" height="29" rx="4" fill="#A59B8F" stroke="#DDE1D9"/>
+<text x="431" y="404" font-family="DejaVu Sans Mono,monospace" font-size="15">#A59B8F</text>
+<rect x="620" y="384" width="76" height="29" rx="4" fill="#EDE9E4" stroke="#DDE1D9"/>
+<text x="711" y="404" font-family="DejaVu Sans Mono,monospace" font-size="15">#EDE9E4</text>
+<rect x="24" y="424" width="852" height="43" rx="6" fill="#FFFFFF"/>
+<text x="38" y="451" font-size="14" fill="#6B766C">09</text>
+<text x="74" y="451" font-size="16">Snow/Ice</text>
+<rect x="340" y="431" width="76" height="29" rx="4" fill="#A8EBFF" stroke="#DDE1D9"/>
+<text x="431" y="451" font-family="DejaVu Sans Mono,monospace" font-size="15">#A8EBFF</text>
+<rect x="620" y="431" width="76" height="29" rx="4" fill="#F2FAFF" stroke="#DDE1D9"/>
+<text x="711" y="451" font-family="DejaVu Sans Mono,monospace" font-size="15">#F2FAFF</text>
+<rect x="24" y="471" width="852" height="43" rx="6" fill="#FFFFFF"/>
+<text x="38" y="498" font-size="14" fill="#6B766C">10</text>
+<text x="74" y="498" font-size="16">Clouds</text>
+<rect x="340" y="478" width="76" height="29" rx="4" fill="#616161" stroke="#DDE1D9"/>
+<text x="431" y="498" font-family="DejaVu Sans Mono,monospace" font-size="15">#616161</text>
+<rect x="620" y="478" width="76" height="29" rx="4" fill="#C8C8C8" stroke="#DDE1D9"/>
+<text x="711" y="498" font-family="DejaVu Sans Mono,monospace" font-size="15">#C8C8C8</text>
+<rect x="24" y="518" width="852" height="43" rx="6" fill="#FFFFFF"/>
+<text x="38" y="545" font-size="14" fill="#6B766C">11</text>
+<text x="74" y="545" font-size="16">Rangeland</text>
+<rect x="340" y="525" width="76" height="29" rx="4" fill="#E3E2C3" stroke="#DDE1D9"/>
+<text x="431" y="545" font-family="DejaVu Sans Mono,monospace" font-size="15">#E3E2C3</text>
+<rect x="620" y="525" width="76" height="29" rx="4" fill="#EECFA8" stroke="#DDE1D9"/>
+<text x="711" y="545" font-family="DejaVu Sans Mono,monospace" font-size="15">#EECFA8</text>
+<rect x="24" y="565" width="852" height="43" rx="6" fill="#FFFFFF"/>
+<text x="38" y="592" font-size="14" fill="#6B766C">00</text>
+<text x="74" y="592" font-size="16">No data</text>
+<rect x="340" y="572" width="76" height="29" rx="4" fill="#FFFFFF" stroke="#DDE1D9"/>
+<text x="431" y="592" font-family="DejaVu Sans Mono,monospace" font-size="15">#FFFFFF</text>
+<rect x="620" y="572" width="76" height="29" rx="4" fill="#FFFFFF" stroke="#DDE1D9"/>
+<text x="711" y="592" font-family="DejaVu Sans Mono,monospace" font-size="15">#FFFFFF</text>
+<text x="36" y="643" font-size="13" fill="#5F6C61">Band 1 class codes · Common / Bright selector · Optional 0 background shown in white</text>
+</g></svg>
